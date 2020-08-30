@@ -1,0 +1,13 @@
+*.txt
+*.docx
+*.dic
+test.py
+/venv/
+/local_acts/
+/template
+/.idea
+/__pycache__
+/settings.ini
+/oldcodefile/
+test.db
+/templates.db
